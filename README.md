@@ -6,11 +6,13 @@ The used Neural Netwwork is quite simple but works fine: a 3-layer linear networ
 
 ## Training example images
 
-![image1](https://github.com/inakiLakunza/Deep-Q-Snake\training_images\image1.png)
+![video](https://github.com/inakiLakunza/Deep-Q-Snake/blob/main/training_images/example.gif)
 
-![image2](https://github.com/inakiLakunza/Deep-Q-Snake\training_images\image2.png)
+![image1](https://github.com/inakiLakunza/Deep-Q-Snake/blob/main/training_images/image1.png)
 
-![image3](https://github.com/inakiLakunza/Deep-Q-Snake\training_images\image3.png)
+![image2](https://github.com/inakiLakunza/Deep-Q-Snake/blob/main/training_images/image2.png)
 
-![video](https://github.com/inakiLakunza/Deep-Q-Snake\training_images\example.gif)
+![image3](https://github.com/inakiLakunza/Deep-Q-Snake/blob/main/training_images/image3.png)
+
+
 
